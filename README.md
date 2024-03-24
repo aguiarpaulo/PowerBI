@@ -16,6 +16,7 @@ https://bit.ly/3yIGGMW
 
 # People Analytics
 ![PeopleAnalytics](pics/PeopleAnalytics.png)
+https://shorturl.at/doERV
 
 # Manufacturing
 ![Manufactoring](pics/Manufactoring.png)
