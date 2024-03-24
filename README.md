@@ -15,7 +15,7 @@ https://shorturl.at/cBES0
 [adicionar imagem aqui]
 
 #Manufacturing
-![pics/manufactoring.png](pics/manufactoring.png)
+![pics/manufactoring.png](pics/Manufactoring.png)
 https://shorturl.at/fkxD2
 [adicionar imagem aqui]
 
