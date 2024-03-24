@@ -2,23 +2,22 @@
 
 Welcome to my amazing portfolio! This is the place where I showcase my journey and the outcomes of my work about reports on Power BI/Tableau. Here's an overview of what you'll find in this repository.
 
-##Logistics
-https://bit.ly/3tYNQeA
-[adicionar imagem aqui]
+# Sales
+https://shorturl.at/hBRWX
 
-##Real Estate
+# Logistics
+https://bit.ly/3tYNQeA
+
+# Real Estate
 ![RealEstate](pics/RealEstate.png)
 https://bit.ly/3yIGGMW
-[adicionar imagem aqui]
 
-##People Analytics
+# People Analytics
 ![PeopleAnalytics](pics/PeopleAnalytics.png)
-[adicionar imagem aqui]
 
-##Manufacturing
+# Manufacturing
 ![Manufactoring](pics/Manufactoring.png)
 https://shorturl.at/fkxD2
 
-LinkedIn
+# LinkedIn
 https://shorturl.at/hjV23
-[adicionar imagem aqui]
